@@ -1,2 +1,2 @@
-# new-belgium-ratings
-A Juptyer notebook for a scraping, data analysis, and data visualization project that resulted in this Tableau dashboard showing all New Belgium beers with over 300 reviews by average Beer Advocate rating and other characteristics.
+# New Belgium Beer Ratings Analysis
+A Juptyer notebook for a scraping, data analysis, and data visualization project that resulted in [this Tableau dashboard](https://public.tableau.com/profile/jeff.hale6436#!/vizhome/NewBelgiumBeerRatings/NewBelgiumBeerAdvocateRatings). The interactive dashboard shows all New Belgium beers with over 300 reviews by average Beer Advocate rating and other characteristics.
